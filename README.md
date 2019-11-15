@@ -1,1 +1,1 @@
-# This repository includes introduction in functions with a special lap "calculator"
+# This repository includes introduction in for loop, lists and mutability
